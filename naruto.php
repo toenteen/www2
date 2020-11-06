@@ -36,7 +36,7 @@
         <div class="col">
           <div class="alert alert-info" role="alert">
             <div class="card">
-              <img class="card-img-top" src="doh5.webp" />
+              <img class="card-img-top" src="intachi.jpg" />
               <div class="card-body">
                 <div class="alert alert-info" role="alert">
                   <h4 class="card-title">Itachi Uchiha</h4>
@@ -54,7 +54,7 @@
         <div class="col">
           <div class="alert alert-danger" role="alert">
             <div class="card">
-              <img class="card-img-top" src="doh6.jpg" />
+              <img class="card-img-top" src="naruto.jpg" />
               <div class="card-body">
                 <div class="alert alert-danger" role="alert">
                   <h4 class="card-title">Naruto Uzumaki</h4>
@@ -71,6 +71,5 @@
         </div>
       </div>
     </div>
-    <!-- Close container -->
   </body>
 </html>
