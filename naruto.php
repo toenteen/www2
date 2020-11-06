@@ -36,7 +36,7 @@
         <div class="col">
           <div class="alert alert-info" role="alert">
             <div class="card">
-              <img class="card-img-top" src="intachi.jpg" />
+              <img class="card-img-top" src="itachi.jpg" />
               <div class="card-body">
                 <div class="alert alert-info" role="alert">
                   <h4 class="card-title">Itachi Uchiha</h4>
