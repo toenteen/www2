@@ -16,36 +16,18 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <div class="alert alert-success" role="alert">
+          <div class="alert alert-secondary" role="alert">
             <div class="card">
               <img class="card-img-top" src="obito.jpg" />
               <div class="card-body">
-                <div class="alert alert-success" role="alert">
+                <div class="alert alert-secondary" role="alert">
                   <h4 class="card-title">Obito Uchiha</h4>
                 </div>
                 <p class="card-text">
                   Obito is a very handsome and good.
                 </p>
                 <p>
-                  <a href="#" class="btn btn-success">Read more</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="alert alert-info" role="alert">
-            <div class="card">
-              <img class="card-img-top" src="itachi.jpg" />
-              <div class="card-body">
-                <div class="alert alert-info" role="alert">
-                  <h4 class="card-title">Itachi Uchiha</h4>
-                </div>
-                <p class="card-text">
-                  Itachi is so cute
-                </p>
-                <p>
-                  <a href="#" class="btn btn-info">Read more</a>
+                  <a href="#" class="btn btn-secondary">Read more</a>
                 </p>
               </div>
             </div>
@@ -54,16 +36,34 @@
         <div class="col">
           <div class="alert alert-danger" role="alert">
             <div class="card">
-              <img class="card-img-top" src="naruto.jpg" />
+              <img class="card-img-top" src="itachi.jpg" />
               <div class="card-body">
                 <div class="alert alert-danger" role="alert">
+                  <h4 class="card-title">Itachi Uchiha</h4>
+                </div>
+                <p class="card-text">
+                  Itachi is so cute
+                </p>
+                <p>
+                  <a href="#" class="btn btn-danger">Read more</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="alert alert-warning" role="alert">
+            <div class="card">
+              <img class="card-img-top" src="naruto.jpg" />
+              <div class="card-body">
+                <div class="alert alert-warning" role="alert">
                   <h4 class="card-title">Naruto Uzumaki</h4>
                 </div>
                 <p class="card-text">
                   Naruto is Honorable.
                 </p>
                 <p>
-                  <a href="#" class="btn btn-danger">Read more</a>
+                  <a href="#" class="btn btn-warning">Read more</a>
                 </p>
               </div>
             </div>
